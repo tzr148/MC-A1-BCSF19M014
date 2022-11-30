@@ -1,0 +1,38 @@
+*{
+    background-color:rgb(19, 18, 18);
+    color: white;
+    font-family: "Lucida Sans";
+}
+
+h1{
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+}
+
+h2, h3{
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    padding-left: 2%;
+}
+
+.ignore{
+    background-color: transparent;
+}
+
+.header{
+    border: 2px solid white;
+    border-radius: 130px;
+    margin: 0px 150px 0px 150px;
+}
+
+img {
+    align-items: center;
+    justify-content: center;
+    margin-left: 230px;
+    width:60%;
+    margin-bottom: 15px;
+}
